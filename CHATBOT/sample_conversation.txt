@@ -1,0 +1,26 @@
+Sample conversation with ChatBot  (2026-10-04 13:07)
+=======================================================
+ChatBot: Good afternoon! I'm ChatBot. Type 'bye' to exit.
+You: Hi
+ChatBot [13:07]: Hello! Good afternoon!
+You: How are you?
+ChatBot [13:07]: I am fine, thank you. What about you? How was your day?
+You: I am good
+ChatBot [13:07]: That's great to hear!
+You: What are you doing?
+ChatBot [13:07]: Waiting to help you!
+You: Can you please help me?
+ChatBot [13:07]: Sure!
+You: wait
+ChatBot [13:07]: Yes sure! Waiting.
+You: Thanks!
+ChatBot [13:07]: You're welcome!
+You: what is your name
+ChatBot [13:07]: My name is ChatBot.
+You: bye
+ChatBot [13:07]: Goodbye! Have a good afternoon!
+=======================================================
+Greeting changes with the time the message is sent:
+  5 AM - 12 PM -> Good morning
+  12 PM - 5 PM -> Good afternoon
+  5 PM - 5 AM  -> Good evening
