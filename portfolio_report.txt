@@ -1,0 +1,88 @@
+======================================================================
+PORTFOLIO REPORT  (2026-10-04 12:30)
+======================================================================
+Apple  x120
+  Bought at          : $120.00 per share  ->  Invested $14,400.00
+  Current price      : $180.00 per share  ->  Current amount $21,600.00
+  Profit/Loss now    : $7,200.00 (+50.00%)
+  Expected value at the end of each year (~12%/yr, return vs. amount invested):
+      Year            Value           Return   Return %
+         1       $24,192.00        $9,792.00     +68.0%
+         2       $27,095.04       $12,695.04     +88.2%
+         3       $30,346.44       $15,946.44    +110.7%
+         4       $33,988.02       $19,588.02    +136.0%
+         5       $38,066.58       $23,666.58    +164.4%
+         6       $42,634.57       $28,234.57    +196.1%
+         7       $47,750.72       $33,350.72    +231.6%
+         8       $53,480.80       $39,080.80    +271.4%
+         9       $59,898.50       $45,498.50    +316.0%
+        10       $67,086.32       $52,686.32    +365.9%
+        11       $75,136.68       $60,736.68    +421.8%
+        12       $84,153.08       $69,753.08    +484.4%
+        13       $94,251.45       $79,851.45    +554.5%
+        14      $105,561.63       $91,161.63    +633.1%
+  Target sell price: $138.00  ->  Target reached - can consider selling
+  Amount if sold at target   : 120 x $138.00 = $16,560.00  (profit $2,160.00)
+  Estimated amount after 14 yrs:
+    = current amount x (1 + rate) ^ years
+    = $21,600.00 x (1 + 0.12) ^ 14
+    = $21,600.00 x 4.8871
+    = $105,561.63
+  Expected return = $105,561.63 - $14,400.00 invested = $91,161.63 (+633.1%)
+----------------------------------------------------------------------
+TOTAL INVESTED      : $14,400.00
+TOTAL CURRENT VALUE : $21,600.00
+TOTAL PROFIT/LOSS   : $7,200.00 (+50.00%)
+PROJECTED VALUE     : $105,561.63  (return $91,161.63, each over its own horizon)
+======================================================================
+YOUR SCENARIO: whole portfolio kept for 14 years at 14.0% per year
+  Starting from current value $21,600.00
+      Year            Value           Return   Return %
+         1       $24,624.00       $10,224.00     +71.0%
+         2       $28,071.36       $13,671.36     +94.9%
+         3       $32,001.35       $17,601.35    +122.2%
+         4       $36,481.54       $22,081.54    +153.3%
+         5       $41,588.95       $27,188.95    +188.8%
+         6       $47,411.41       $33,011.41    +229.2%
+         7       $54,049.01       $39,649.01    +275.3%
+         8       $61,615.87       $47,215.87    +327.9%
+         9       $70,242.09       $55,842.09    +387.8%
+        10       $80,075.98       $65,675.98    +456.1%
+        11       $91,286.62       $76,886.62    +533.9%
+        12      $104,066.74       $89,666.74    +622.7%
+        13      $118,636.09      $104,236.09    +723.9%
+        14      $135,245.14      $120,845.14    +839.2%
+
+  Stock              Invested   Expected Value  Expected Return  Return %
+  Apple            $14,400.00      $135,245.14      $120,845.14   +839.2%
+
+  Expected value at the end : $135,245.14
+  Expected return           : $120,845.14 (+839.2% on $14,400.00 invested)
+  Money grows about 6.26x in 14 years at 14.0%.
+======================================================================
+Note: prices and return rates are sample values, not financial advice.
+======================================================================
+TOP 3 STOCKS TO CONSIDER NOW (model ranking on sample data)
+  Score = 60% expected yearly return + 40% distance below 52-week high
+  #  Stock            Price  Exp.Ret  Below High   Score
+  1  Tesla          $250.00      15%       47.9%    28.2 <- pick
+  2  Meta           $500.00      12%       32.4%    20.2 <- pick
+  3  Nvidia         $120.00      18%       22.6%    19.8 <- pick
+  4  Google         $140.00      11%       31.7%    19.3
+  5  Amazon         $175.00      13%       27.1%    18.6
+  6  Apple          $180.00      12%       24.1%    16.8
+  7  Reliance        $30.00      11%       18.9%    14.2
+  8  Infosys         $18.50      10%       19.6%    13.8
+  9  Microsoft      $410.00      12%       12.8%    12.3
+  10 TCS             $45.00      10%       13.5%    11.4
+
+  Tesla: ~15%/yr expected, trading 48% below its high (near its 52-week low).
+  Meta: ~12%/yr expected, trading 32% below its high (near its 52-week low).
+  Nvidia: ~18%/yr expected, trading 23% below its high (mid-range).
+
+  Splitting $1,340.00 equally across the top 3:
+    Tesla            1 shares  = $250.00
+    Meta             0 shares  = $0.00
+    Nvidia           3 shares  = $360.00
+    Total spent: $610.00   Left over: $730.00
+  Based only on the hardcoded sample prices above - not live data and not financial advice.
